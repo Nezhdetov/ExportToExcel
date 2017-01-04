@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExportToExcel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExportToExcel_jar</output-path>
+    <root id="archive" name="ExportToExcel.jar">
+      <element id="module-output" name="ExportToExcel" />
+    </root>
+  </artifact>
+</component>
