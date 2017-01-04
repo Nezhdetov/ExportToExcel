@@ -1,8 +1,7 @@
 # ExportToExcel
 Simple java project for exporting text files to excel using Apache POI  
-:simple_smile:
 
-## Apache POI runtime dependencies:
+#### Apache POI runtime dependencies:
 ```
 <dependency>
     <groupId>org.apache.poi</groupId>
